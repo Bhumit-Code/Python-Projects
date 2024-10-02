@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AGE LEFT IN WEEK CALCULATOR", "AGE LEFT IN WEEK CALCULATOR\AGE LEFT IN WEEK CALCULATOR.pyproj", "{A2893EFF-597A-48C9-9729-55F5FF30873A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2893EFF-597A-48C9-9729-55F5FF30873A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2893EFF-597A-48C9-9729-55F5FF30873A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {66941BF4-22F8-4237-989F-376106338436}
+	EndGlobalSection
+EndGlobal
